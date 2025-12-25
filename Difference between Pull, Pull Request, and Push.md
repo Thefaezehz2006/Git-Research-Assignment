@@ -1,0 +1,3 @@
+- *Push*: Sends your local commits to the remote repository (local → remote).  
+- *Pull*: Fetches and merges changes from the remote into your local branch (remote → local).  
+- *Pull Request*: A GitHub feature to "request" that someone pulls and merges your changes. Used when you don't have direct push access; it allows review and discussion before merging, unlike direct push/pull.
